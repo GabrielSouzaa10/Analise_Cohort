@@ -9,7 +9,7 @@ Uma análise de retenção de clientes que construí para aprofundar meus conhec
 
 ## O que é Análise de Cohort?
 
-A Análise de Cohort é uma técnica que agrupa clientes com base em uma característica comum — geralmente a data da primeira compra.
+A Análise de Cohort é uma técnica que agrupa clientes com base em uma característica comum, geralmente a data da primeira compra.
 
 Diferente de métricas que mostram apenas uma "foto" do momento, o cohort permite acompanhar o comportamento de grupos específicos ao longo do tempo. Com isso, conseguimos enxergar padrões de retenção, engajamento e ciclo de vida do cliente.
 
@@ -32,7 +32,7 @@ A pergunta é: quantos desses 62 voltaram em fevereiro? E em março? E depois?
 
 ## Sobre este Projeto
 
-Pensando em evoluir e expandir meu portfólio, mergulhei no estudo de Análise de Cohort — assisti vídeos, li artigos e coloquei a mão na massa no Power BI.
+Pensando em evoluir e expandir meu portfólio, mergulhei no estudo de Análise de Cohort, assisti vídeos, li artigos e coloquei a mão na massa no Power BI.
 
 O objetivo foi construir uma análise completa de retenção, partindo de uma base fictícia e aplicando DAX para criar toda a estrutura do zero.
 
